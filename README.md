@@ -1,51 +1,40 @@
-# Shaafici Shire
+```text
+   _____ _    _           ___   ______ _____ 
+  / ____| |  | |   /\    |__ \ |  ____|_   _|
+ | (___ | |__| |  /  \      ) || |__    | |  
+  \___ \|  __  | / /\ \    / / |  __|   | |  
+  ____) | |  | |/ ____ \  / /_ | |     _| |_ 
+ |_____/|_|  |_/_/    \_\|____||_|    |_____|
+```
 
-### Designing modern digital systems powered by AI, automation, and scalable web technologies.
+Greetings! I'm **Shaafici Shire**, a technology-focused creator building modern digital systems and scalable ideas for the future.  
+My work is centered around AI-powered experiences, modern web technologies, automation, and digital products designed to solve real-world problems in a practical way.
 
----
+- 🚀 Currently exploring modern Full-Stack & AI Engineering
+- 🌐 Building ideas around SaaS, automation, and digital business systems
+- 🧠 Focused on learning deeply and building consistently
+- ⚡ Interested in intelligent systems, modern UI/UX, and scalable platforms
 
-## 🧠 Focus
+### Tech Preferences
 
-- AI Systems & Automation
-- Modern Web Experiences
-- SaaS & Digital Products
-- Payment & Business Solutions
-- Creative Technology Ideas
+| Category | Preference |
+|----------|-------------|
+| 💻 Frontend | HTML • CSS • JavaScript • React |
+| ⚙️ Backend | Node.js • Express.js • Python |
+| 🧠 AI & Tools | OpenAI • Copilot • TensorFlow |
+| 🗄️ Database | MongoDB • MySQL |
+| 🎨 Design | Modern Minimal UI |
+| 🛠️ Editor | Visual Studio Code |
 
----
+### Contact
 
-## ⚒️ Stack
-
-### Frontend
-HTML • CSS • JavaScript • React • TailwindCSS
-
-### Backend
-Node.js • Express.js • Python
-
-### Database
-MongoDB • MySQL
-
-### AI & Tools
-OpenAI • GitHub Copilot • TensorFlow • VS Code
-
----
-
-## 🚀 Current Journey
-
-Building skills in:
-- Full-Stack Development
-- AI Engineering
-- Scalable SaaS Systems
-- Modern UI/UX Experiences
-
-Exploring how intelligent systems can simplify business, improve user experience, and create impactful digital products.
+- 🌍 Building through **Barwaaqso**
+- 🚀 Exploring AI, SaaS & modern web systems
+- 📚 Learning something new every single day
 
 ---
 
-## 🌍 Vision
+> “Technology becomes powerful when simplicity meets vision.”
 
-Creating technology that feels simple for users, yet powerful behind the scenes.
-
----
-
-> "The future belongs to those who build systems, not just ideas."
+**Warm regards,**  
+**Shaafici Shire**
